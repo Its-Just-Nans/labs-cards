@@ -1,3 +1,4 @@
 build/*
 *.s#?
 cards.pdf
+src/index.html
